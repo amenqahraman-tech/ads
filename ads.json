@@ -1,7 +1,16 @@
 {
   "enabled": true,
-  "title": "amin",
-  "message": "ڕیکلام کار دەکات ✅",
+  "title": "TEST OK",
+  "message": "ڕیکلامی سەرەوە ✅",
   "phone": "0750xxxxxxx",
-  "image": "https://via.placeholder.com/100"
+  "image": "https://via.placeholder.com/100",
+
+  "middleAd": {
+    "enabled": true,
+    "title": "🔥 ڕیکلامی دووەم",
+    "message": "ئەم ڕیکلامە لە شوێنی ناوەڕاست/چەپ دەردەکەوێت",
+    "phone": "0750xxxxxxx",
+    "image": "https://via.placeholder.com/350x200",
+    "link": "https://example.com"
+  }
 }
