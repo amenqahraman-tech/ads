@@ -1,14 +1,14 @@
 {
   "enabled": true,
-  "title": "TEST OK",
-  "message": "ڕیکلامی سەرەوە ✅",
+  "title": "amin",
+  "message": "....",
   "phone": "0750xxxxxxx",
   "image": "https://via.placeholder.com/100",
 
   "middleAd": {
     "enabled": true,
-    "title": "🔥 ڕیکلامی دووەم",
-    "message": "ئەم ڕیکلامە لە ناوەڕاست دەردەکەوێت",
+    "title": "🔥 ریکلامی ناوەڕاست",
+    "message": "ئەمە لەو شوێنە دەردەکەوێت",
     "phone": "0750xxxxxxx",
     "image": "https://via.placeholder.com/350x200",
     "link": "https://example.com"
