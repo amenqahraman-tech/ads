@@ -3,14 +3,14 @@
   "title": "amin",
   "message": "....",
   "phone": "0750xxxxxxx",
-  "image": "https://via.placeholder.com/100",
+  "images": "https://via.placeholder.com/100",
 
   "middleAd": {
     "enabled": true,
     "title": "🔥 ریکلامی ناوەڕاست",
     "message": "ئەمە لەو شوێنە دەردەکەوێت",
     "phone": "0750 964 6867",
-    "image":[
+    "images":[
       "https://i.imgur.com/G3xmqkC.png"
       "https://i.imgur.com/x0vnNoS.png"],
     "link": "https://example.com"
