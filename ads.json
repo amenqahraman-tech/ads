@@ -1,18 +1,22 @@
 {
   "enabled": true,
   "title": "amin",
-  "message": "....",
-  "phone": "0750xxxxxxx",
-  "images": "https://via.placeholder.com/100",
+  "message": "ریکلامی سەرەوە ✅",
+  "phone": "0750xxxxxxxx",
+  "images": [
+    "https://i.imgur.com/x0vnNoS.png",
+    "https://i.imgur.com/G3xmqkC.png"
+  ],
 
   "middleAd": {
     "enabled": true,
     "title": "🔥 ریکلامی ناوەڕاست",
-    "message": "ئەمە لەو شوێنە دەردەکەوێت",
-    "phone": "0750 964 6867",
-    "images":[
+    "message": "ئەمە ریکلامی دووەمە",
+    "phone": "0750 964 68 67",
+    "images": [
+      "https://i.imgur.com/x0vnNoS.png",
       "https://i.imgur.com/G3xmqkC.png"
-      "https://i.imgur.com/x0vnNoS.png"],
+    ],
     "link": "https://example.com"
   }
 }
